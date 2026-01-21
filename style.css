@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f1f5f9;
+    color: #1f2937;
+}
+
+/* Header */
+header {
+    background-color: #0f172a;
+    color: white;
+    padding: 20px;
+}
+
+/* Navigation */
+nav a {
+    color: #93c5fd;
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: 500;
+}
+
+nav a.active {
+    text-decoration: underline;
+}
+
+/* Main content */
+main {
+    padding: 30px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 6px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #0f172a;
+    color: white;
+}
